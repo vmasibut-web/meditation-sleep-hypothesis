@@ -1,0 +1,27 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Кэш Jupyter
+.ipynb_checkpoints/
+
+# Настройки редакторов
+.vscode/
+.idea/
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Данные и артефакты (если появятся)
+*.csv
+*.xlsx
+*.log
